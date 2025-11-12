@@ -206,15 +206,9 @@ El directorio `data/` contiene `smartfloors_sample.csv` con **24 horas de datos 
 
 ---
 
-## 🪪 Licencia
-
-Este proyecto se distribuye bajo licencia **MIT**.  
-Puedes usarlo, modificarlo y compartirlo libremente dando crédito al equipo desarrollador.
-
----
-
-## 👨‍💻 Equipo SmartFloors
-
-Proyecto desarrollado para el **Hackathon Zona F 2025**  
-📧 Contacto: smartfloors.team@gmail.com  
-🌐 Categoría: *Soluciones predictivas y eficiencia energética en edificios inteligentes.*
+## 👨‍💻 Equipo
+Juan Esteban Losada Castañeda
+Cesar Mora Correa
+Juan Camilo Aguilar Aguirre
+Juan Diego Velasquez
+Proyecto desarrollado para el **Hackathon 2025**  
