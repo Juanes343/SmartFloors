@@ -1,0 +1,88 @@
+# =====================================
+#  Proyecto SmartFloors – Hackathon
+# =====================================
+
+# Entorno virtual
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Archivos de configuración local
+.streamlit/secrets.toml
+.secrets/
+*.env
+.env.*
+
+# Archivos sensibles o credenciales
+# (No subir tokens, contraseñas o configuraciones privadas)
+config.json
+credentials.json
+token.json
+apikey.txt
+*.pem
+*.key
+*.crt
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+.cache/
+logs/
+temp/
+tmp/
+
+# Datos locales (solo mantener ejemplos)
+data/*.csv
+!data/smartfloors_sample.csv   # ← Permitimos subir el dataset de ejemplo
+uploads/
+*.xlsx
+*.xls
+*.ods
+*.zip
+
+# Salidas o reportes generados
+*.pdf
+*.html
+*.json
+*.md~
+*.out
+
+# Imágenes o resultados temporales
+*.png
+*.jpg
+*.jpeg
+*.gif
+screenshots/
+results/
+
+# Librerías instaladas
+*.egg-info/
+dist/
+build/
+
+# IDEs y herramientas
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Streamlit cache y sesión
+.streamlit/cache/
+.streamlit/sessions/
+.streamlit/state.json
+
+# Otros posibles
+coverage/
+__pycache__/

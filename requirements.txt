@@ -1,0 +1,20 @@
+# Dependencias principales del proyecto SmartFloors MVP
+
+# Procesamiento de datos
+pandas==2.1.4
+numpy==1.26.4
+
+# Visualización y dashboard
+streamlit==1.32.2
+plotly==5.23.0
+streamlit-autorefresh==0.0.2
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Utilidades generales
+python-dateutil==2.9.0
+pytz==2024.1
+
+# Envío de correos y validaciones
+email-validator==2.2.0
