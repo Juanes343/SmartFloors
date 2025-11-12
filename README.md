@@ -1,0 +1,1 @@
+SmartFloors: monitoreo y alertas por piso (Edificio A, Pisos 1–3)
