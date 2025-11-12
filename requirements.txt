@@ -1,11 +1,11 @@
 # Dependencias principales del proyecto SmartFloors MVP
 
 # Procesamiento de datos
-pandas==2.1.4
+pandas==2.2.3
 numpy==1.26.4
 
 # Visualización y dashboard
-streamlit==1.32.2
+streamlit==1.38.0
 plotly==5.23.0
 streamlit-autorefresh==0.0.2
 

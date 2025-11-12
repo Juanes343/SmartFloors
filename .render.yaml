@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: smartfloors-dashboard
+    env: python
+    buildCommand: |
+      pip install --upgrade pip
+      pip install -r requirements.txt
+    startCommand: streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0
+    plan: free
+    autoDeploy: true
